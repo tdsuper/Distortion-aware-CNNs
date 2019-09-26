@@ -11,7 +11,7 @@ Although these images have large field-of-view, most existing deep convolutional
   ![image](./idea.png)
  
 
-##Conditions of use
+## Conditions of use
 
 This package is distributed under the GNU General Public License. For information on commercial licensing, please contact the authors.
 
